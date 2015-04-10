@@ -1,6 +1,6 @@
 ## Following code computes and caches the inverse of a matrix.
 
-## Fuction that inverses a matrix by
+## Function that inverses a matrix by:
 ## setting the value of matrix
 ## getting the value
 ## setting the inverse of matrix
